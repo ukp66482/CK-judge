@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 12/runaway multidimensional universe/cmake-build-debug/CMakeFiles/runaway_multidimensional_universe.dir
+/Users/ukp66482/Desktop/CK judge/Ch 12/runaway multidimensional universe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 12/runaway multidimensional universe/cmake-build-debug/CMakeFiles/rebuild_cache.dir

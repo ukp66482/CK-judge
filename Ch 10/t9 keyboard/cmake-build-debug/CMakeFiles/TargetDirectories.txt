@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 10/t9 keyboard/cmake-build-debug/CMakeFiles/t9_keyboard.dir
+/Users/ukp66482/Desktop/CK judge/Ch 10/t9 keyboard/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 10/t9 keyboard/cmake-build-debug/CMakeFiles/rebuild_cache.dir

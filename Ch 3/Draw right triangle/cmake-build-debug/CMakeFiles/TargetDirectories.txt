@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 3/Draw right triangle/cmake-build-debug/CMakeFiles/Draw_right_triangle.dir
+/Users/ukp66482/Desktop/CK judge/Ch 3/Draw right triangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 3/Draw right triangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

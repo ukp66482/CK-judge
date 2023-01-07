@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 2/Polynomial Calculation/cmake-build-debug/CMakeFiles/Polynomial_Calculation.dir
+/Users/ukp66482/Desktop/CK judge/Ch 2/Polynomial Calculation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 2/Polynomial Calculation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

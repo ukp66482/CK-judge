@@ -1,0 +1,11 @@
+# ninja log v5
+0	143	1664988074253969438	CMakeFiles/Language_model.dir/main.c.o	f3f3c348bb487fd5
+144	179	1664988074290425056	Language_model	5d9698be12c718dd
+0	25	1664988079568069906	CMakeFiles/Language_model.dir/main.c.o	f3f3c348bb487fd5
+25	51	1664988079594701763	Language_model	5d9698be12c718dd
+0	128	1664988095937501429	CMakeFiles/Language_model.dir/main.c.o	f3f3c348bb487fd5
+128	160	1664988095970349838	Language_model	5d9698be12c718dd
+0	25	1664988103637173288	CMakeFiles/Language_model.dir/main.c.o	f3f3c348bb487fd5
+25	48	1664988103662120623	Language_model	5d9698be12c718dd
+1	134	1664988165982645921	CMakeFiles/Language_model.dir/main.c.o	f3f3c348bb487fd5
+134	167	1664988166016814607	Language_model	5d9698be12c718dd

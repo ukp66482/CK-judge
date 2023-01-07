@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/2021_midterm/ascii code/cmake-build-debug/CMakeFiles/ascii_code.dir
+/Users/ukp66482/Desktop/CK judge/2021_midterm/ascii code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/2021_midterm/ascii code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

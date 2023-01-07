@@ -1,0 +1,21 @@
+# ninja log v5
+34	74	1668624188768467259	Sort_the_section	e50e38ffb653bb02
+0	34	1668624188727269565	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+0	21	1672843517326456150	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+22	50	1672843517356691643	Sort_the_section	e50e38ffb653bb02
+0	27	1672843535130964591	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+27	52	1672843535156723633	Sort_the_section	e50e38ffb653bb02
+0	184	1672876896438537236	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+184	270	1672876896525621039	Sort_the_section	e50e38ffb653bb02
+0	134	1672877192800296077	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+134	165	1672877192832801655	Sort_the_section	e50e38ffb653bb02
+0	127	1672877328151861288	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+127	157	1672877328183855618	Sort_the_section	e50e38ffb653bb02
+0	132	1672877872003760049	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+133	164	1672877872037645504	Sort_the_section	e50e38ffb653bb02
+1	133	1672878108473438956	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+133	164	1672878108507051200	Sort_the_section	e50e38ffb653bb02
+1	28	1672878160779422401	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+29	57	1672878160809382062	Sort_the_section	e50e38ffb653bb02
+0	23	1672878179611585822	CMakeFiles/Sort_the_section.dir/main.c.o	2de5086ddd1c9bf8
+24	49	1672878179637790318	Sort_the_section	e50e38ffb653bb02

@@ -1,0 +1,9 @@
+# ninja log v5
+154	186	1666887882489789929	Rock_Paper_Scissors_Tournament	9d70568a2a3f61cb
+1	154	1666887882456145252	CMakeFiles/Rock_Paper_Scissors_Tournament.dir/main.c.o	7f162405c3d685fe
+0	33	1666888004982500733	CMakeFiles/Rock_Paper_Scissors_Tournament.dir/main.c.o	7f162405c3d685fe
+33	64	1666888005014804413	Rock_Paper_Scissors_Tournament	9d70568a2a3f61cb
+1	28	1666888024070340784	CMakeFiles/Rock_Paper_Scissors_Tournament.dir/main.c.o	7f162405c3d685fe
+28	53	1666888024095544984	Rock_Paper_Scissors_Tournament	9d70568a2a3f61cb
+1	143	1666888227420965134	CMakeFiles/Rock_Paper_Scissors_Tournament.dir/main.c.o	7f162405c3d685fe
+143	182	1666888227461768473	Rock_Paper_Scissors_Tournament	9d70568a2a3f61cb

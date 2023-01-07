@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 6/5-bits Full Adder/cmake-build-debug/CMakeFiles/5_bits_Full_Adder.dir
+/Users/ukp66482/Desktop/CK judge/Ch 6/5-bits Full Adder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 6/5-bits Full Adder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

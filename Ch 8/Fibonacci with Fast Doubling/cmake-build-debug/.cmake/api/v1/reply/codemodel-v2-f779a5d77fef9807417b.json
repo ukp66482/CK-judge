@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Fibonacci_with_Fast_Doubling",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Fibonacci_with_Fast_Doubling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fibonacci_with_Fast_Doubling-Debug-e31b438f18c3787bac69.json",
+					"name" : "Fibonacci_with_Fast_Doubling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ukp66482/Desktop/CK judge/Ch 8/Fibonacci with Fast Doubling/cmake-build-debug",
+		"source" : "/Users/ukp66482/Desktop/CK judge/Ch 8/Fibonacci with Fast Doubling"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/2021_final/String Combination/cmake-build-debug/CMakeFiles/String_Combination.dir
+/Users/ukp66482/Desktop/CK judge/2021_final/String Combination/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/2021_final/String Combination/cmake-build-debug/CMakeFiles/rebuild_cache.dir

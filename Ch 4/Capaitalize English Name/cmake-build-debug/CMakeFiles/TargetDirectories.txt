@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 4/Capaitalize English Name/cmake-build-debug/CMakeFiles/Capaitalize_English_Name.dir
+/Users/ukp66482/Desktop/CK judge/Ch 4/Capaitalize English Name/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 4/Capaitalize English Name/cmake-build-debug/CMakeFiles/rebuild_cache.dir

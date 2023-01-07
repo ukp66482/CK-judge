@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 13/Throwing Cards Away/cmake-build-debug/CMakeFiles/Throwing_Cards_Away.dir
+/Users/ukp66482/Desktop/CK judge/Ch 13/Throwing Cards Away/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 13/Throwing Cards Away/cmake-build-debug/CMakeFiles/rebuild_cache.dir

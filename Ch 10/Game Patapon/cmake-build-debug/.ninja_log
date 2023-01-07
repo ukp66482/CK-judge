@@ -1,0 +1,9 @@
+# ninja log v5
+139	174	1669258039144924126	Game_Patapon	148d42e7c5befa3d
+1	139	1669258039107483460	CMakeFiles/Game_Patapon.dir/main.c.o	bae92ba0e00bcc56
+0	134	1669258080454911935	CMakeFiles/Game_Patapon.dir/main.c.o	bae92ba0e00bcc56
+134	177	1669258080498429378	Game_Patapon	148d42e7c5befa3d
+0	134	1669258235908571180	CMakeFiles/Game_Patapon.dir/main.c.o	bae92ba0e00bcc56
+134	168	1669258235944077795	Game_Patapon	148d42e7c5befa3d
+0	35	1669908006536717471	CMakeFiles/Game_Patapon.dir/main.c.o	bae92ba0e00bcc56
+35	69	1669908006572263350	Game_Patapon	148d42e7c5befa3d

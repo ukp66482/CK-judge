@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 13/Move the Maximum to the Tail/cmake-build-debug/CMakeFiles/Move_the_Maximum_to_the_Tail.dir
+/Users/ukp66482/Desktop/CK judge/Ch 13/Move the Maximum to the Tail/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 13/Move the Maximum to the Tail/cmake-build-debug/CMakeFiles/rebuild_cache.dir

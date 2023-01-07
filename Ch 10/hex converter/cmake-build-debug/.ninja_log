@@ -1,0 +1,5 @@
+# ninja log v5
+0	131	1669206683630170294	CMakeFiles/hex_converter.dir/main.c.o	24e1aef971fc67af
+131	163	1669206683663211028	hex_converter	5751b051ba139920
+0	26	1669206703532310447	CMakeFiles/hex_converter.dir/main.c.o	24e1aef971fc67af
+26	54	1669206703560599792	hex_converter	5751b051ba139920

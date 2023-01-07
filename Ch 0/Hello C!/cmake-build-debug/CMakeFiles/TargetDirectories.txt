@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 0/Hello C!/cmake-build-debug/CMakeFiles/Hello_C_.dir
+/Users/ukp66482/Desktop/CK judge/Ch 0/Hello C!/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 0/Hello C!/cmake-build-debug/CMakeFiles/rebuild_cache.dir

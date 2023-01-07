@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/2021_midterm/Page rank/cmake-build-debug/CMakeFiles/Page_rank.dir
+/Users/ukp66482/Desktop/CK judge/2021_midterm/Page rank/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/2021_midterm/Page rank/cmake-build-debug/CMakeFiles/rebuild_cache.dir

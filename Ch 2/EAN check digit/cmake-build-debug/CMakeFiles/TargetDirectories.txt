@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 2/EAN check digit/cmake-build-debug/CMakeFiles/EAN_check_digit.dir
+/Users/ukp66482/Desktop/CK judge/Ch 2/EAN check digit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 2/EAN check digit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

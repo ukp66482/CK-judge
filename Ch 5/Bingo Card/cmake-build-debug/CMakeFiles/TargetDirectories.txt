@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 5/Bingo Card/cmake-build-debug/CMakeFiles/Bingo_Card.dir
+/Users/ukp66482/Desktop/CK judge/Ch 5/Bingo Card/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 5/Bingo Card/cmake-build-debug/CMakeFiles/rebuild_cache.dir

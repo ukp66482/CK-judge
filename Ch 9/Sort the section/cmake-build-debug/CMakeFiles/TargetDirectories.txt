@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 9/Sort the section/cmake-build-debug/CMakeFiles/Sort_the_section.dir
+/Users/ukp66482/Desktop/CK judge/Ch 9/Sort the section/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 9/Sort the section/cmake-build-debug/CMakeFiles/rebuild_cache.dir

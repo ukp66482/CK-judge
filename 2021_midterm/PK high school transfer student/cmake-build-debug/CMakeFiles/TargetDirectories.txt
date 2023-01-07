@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/2021_midterm/PK high school transfer student/cmake-build-debug/CMakeFiles/PK_high_school_transfer_student.dir
+/Users/ukp66482/Desktop/CK judge/2021_midterm/PK high school transfer student/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/2021_midterm/PK high school transfer student/cmake-build-debug/CMakeFiles/rebuild_cache.dir

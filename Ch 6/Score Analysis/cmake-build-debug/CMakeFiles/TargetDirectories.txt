@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 6/Score Analysis/cmake-build-debug/CMakeFiles/Score_Analysis.dir
+/Users/ukp66482/Desktop/CK judge/Ch 6/Score Analysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 6/Score Analysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir

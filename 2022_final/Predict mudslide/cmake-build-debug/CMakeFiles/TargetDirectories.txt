@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/2022_final/Predict mudslide/cmake-build-debug/CMakeFiles/Predict_mudslide.dir
+/Users/ukp66482/Desktop/CK judge/2022_final/Predict mudslide/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/2022_final/Predict mudslide/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/2022_midterm/Shopping in Japan/cmake-build-debug/CMakeFiles/Shopping_in_Japan.dir
+/Users/ukp66482/Desktop/CK judge/2022_midterm/Shopping in Japan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/2022_midterm/Shopping in Japan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

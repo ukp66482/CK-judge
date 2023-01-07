@@ -1,0 +1,24 @@
+# ninja log v5
+0	37	1664384217668401538	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+1	22	1664384229193745497	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+22	47	1664384229219265101	Draw_right_triangle	771764eb87d8ea73
+0	23	1664384243835527774	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+23	48	1664384243861153586	Draw_right_triangle	771764eb87d8ea73
+1	24	1664384269140852377	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+24	51	1664384269168615385	Draw_right_triangle	771764eb87d8ea73
+0	129	1664384644579059584	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+129	163	1664384644614698047	Draw_right_triangle	771764eb87d8ea73
+0	23	1664384650412477277	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+23	49	1664384650438745669	Draw_right_triangle	771764eb87d8ea73
+0	131	1664384745649471235	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+131	164	1664384745684162162	Draw_right_triangle	771764eb87d8ea73
+0	37	1664384970195353835	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+37	75	1664384970233895239	Draw_right_triangle	771764eb87d8ea73
+0	23	1664385025054326662	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+23	50	1664385025081534298	Draw_right_triangle	771764eb87d8ea73
+1	122	1664385245450408724	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+122	156	1664385245486180573	Draw_right_triangle	771764eb87d8ea73
+0	21	1664385366637964414	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+21	47	1664385366663928682	Draw_right_triangle	771764eb87d8ea73
+0	129	1664385555839050931	CMakeFiles/Draw_right_triangle.dir/main.c.o	7ec4cfa1280291b2
+129	162	1664385555873378982	Draw_right_triangle	771764eb87d8ea73

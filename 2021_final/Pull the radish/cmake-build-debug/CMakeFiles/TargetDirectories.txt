@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/2021_final/Pull the radish/cmake-build-debug/CMakeFiles/Pull_the_radish.dir
+/Users/ukp66482/Desktop/CK judge/2021_final/Pull the radish/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/2021_final/Pull the radish/cmake-build-debug/CMakeFiles/rebuild_cache.dir

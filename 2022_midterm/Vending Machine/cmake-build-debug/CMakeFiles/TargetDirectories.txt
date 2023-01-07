@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/2022_midterm/Vending Machine/cmake-build-debug/CMakeFiles/Vending_Machine.dir
+/Users/ukp66482/Desktop/CK judge/2022_midterm/Vending Machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/2022_midterm/Vending Machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

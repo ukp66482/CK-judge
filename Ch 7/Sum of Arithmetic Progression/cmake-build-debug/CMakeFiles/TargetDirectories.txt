@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 7/Sum of Arithmetic Progression/cmake-build-debug/CMakeFiles/Sum_of_Arithmetic_Progression.dir
+/Users/ukp66482/Desktop/CK judge/Ch 7/Sum of Arithmetic Progression/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 7/Sum of Arithmetic Progression/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 8/Trick Or Treat/cmake-build-debug/CMakeFiles/Trick_Or_Treat.dir
+/Users/ukp66482/Desktop/CK judge/Ch 8/Trick Or Treat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 8/Trick Or Treat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

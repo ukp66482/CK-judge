@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/CK judge/Ch 3/Dungeons & Dragons Part II/cmake-build-debug/CMakeFiles/Dungeons___Dragons_Part_II.dir
+/Users/ukp66482/Desktop/CK judge/Ch 3/Dungeons & Dragons Part II/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/CK judge/Ch 3/Dungeons & Dragons Part II/cmake-build-debug/CMakeFiles/rebuild_cache.dir
